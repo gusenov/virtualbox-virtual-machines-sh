@@ -1,2 +1,3 @@
-# virtualbox-virtual-machines-sh
-bash-скрипты для создания виртуальных машин на VirtualBox.
+# Операционные системы
+
+- [Windows 8.1](win8.sh)
